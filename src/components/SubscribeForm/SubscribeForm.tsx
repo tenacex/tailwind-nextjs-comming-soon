@@ -17,10 +17,10 @@ function SubscribeForm() {
                   htmlFor="email"
                   className="block text-slate-800 dark:text-slate-100  font-light text-sm leading-6"
                 >
-                  {newsletterheading}
+                  {/* {newsletterheading} */}
                 </label>
                 <div className="mt-2 flex-col flex lg:flex md:flex-row">
-                  <input
+                  {/* <input
                     id="email"
                     name="email"
                     type="email"
@@ -31,7 +31,7 @@ function SubscribeForm() {
                   />
                   <button className="ml-0 bg-slate-900 sm:w-auto border-slate-800 dark:border-slate-100	rounded-none mt-2 md:mt-0	p-2 border-2 dark:text-white hover:bg-slate-950">
                     Subscribe
-                  </button>
+                  </button> */}
                 </div>
               </div>
             </form>
